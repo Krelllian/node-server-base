@@ -1,0 +1,2 @@
+20220425	20:40:09	f6d38ff5-8553-4b90-95c0-88896e09625f	Error : Not allowed by CORS
+20220430	17:48:57	cdd14de4-21ca-489f-b83a-9f3c64284ec5	TypeError : Cannot read properties of undefined (reading 'username')
